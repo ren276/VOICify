@@ -16,7 +16,7 @@ const Layout = ({ children }) => {
           <Nav className="mr-auto">
             <Nav.Link href="/">Home</Nav.Link>
             <Nav.Link href="/about">About</Nav.Link>
-            <Nav.Link href="https://voice-bay.vercel.app/">Google Meet</Nav.Link>
+            <Nav.Link href="https://voice-bay.vercel.app/">Live Video Call</Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Navbar>
